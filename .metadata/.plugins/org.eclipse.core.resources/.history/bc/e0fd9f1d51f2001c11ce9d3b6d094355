@@ -1,0 +1,15 @@
+package Collections;
+
+public class Hash {
+
+	public static void main(String[] args) {
+		String a="200";
+		String B="200";
+		if(a.equals(B)) {
+			System.out.println("both are equal");
+			System.out.println(a.hashCode()+ " "+B.hashCode());;
+		}
+
+	}
+
+}

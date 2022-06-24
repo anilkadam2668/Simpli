@@ -1,0 +1,11 @@
+package Collections;
+
+public class HashMap {
+
+	public static void main(String[] args) {
+		HashMaprunner<Integer, String> map=new HashMaap<>();
+		
+
+	}
+
+}

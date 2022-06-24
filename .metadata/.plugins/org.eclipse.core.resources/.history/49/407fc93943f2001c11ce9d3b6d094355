@@ -1,0 +1,26 @@
+package Collections;
+
+public class Student {
+	
+	String name;
+	int age;
+	int roll_no;
+	String Course;
+
+	
+	public Student(String name, int age, int roll_no, String course) {
+		super();
+		this.name = name;
+		this.age = age;
+		this.roll_no = roll_no;
+		Course = course;
+	}
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

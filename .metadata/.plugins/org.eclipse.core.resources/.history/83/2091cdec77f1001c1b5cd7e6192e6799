@@ -1,0 +1,33 @@
+package Collections;
+
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
+public class Linkedlistrun {
+
+	public static void main(String[] args) {
+		Queue <String> animal=new LinkedList<>();//ctrl+shift+o
+       //we can also use Queue instead List, then we have to use animal.add("dog")
+		
+		animal.offer("dog");
+		animal.add("cat");  //we can use add also
+		animal.offer("Lion");
+		
+		System.out.println(animal.peek());
+		System.out.println(animal.remove());
+		
+		List <String> animal1=new LinkedList<>();//ctrl+shift+o
+	       //we can also use Queue instead List, then we have to use animal.add("dog")
+			
+			animal.add("dog1");
+			animal.add("cat1");
+			animal.add("Lion1");
+			
+			System.out.println(animal1.remove(0));//we have to give index value
+			
+			
+	}
+
+	
+}

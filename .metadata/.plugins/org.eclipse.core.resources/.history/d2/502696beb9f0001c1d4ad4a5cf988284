@@ -1,0 +1,25 @@
+import java.util.ArrayList;
+
+public class ArraylistRunner {
+
+	public static void main(String[] args) {
+		//array list allows to create resizable arrays
+		//it can adjust their capacity when we add or remove elements, also called dynamic arrays.
+		
+		ArrayList<Integer> arraylist=new ArrayList<Integer>();
+		arraylist.add(12);
+		arraylist.add(20);
+		arraylist.add(25);
+		arraylist.add(55);
+		
+		arraylist.set(3, 66);
+		arraylist.size();
+
+		System.out.println(arraylist);
+		
+		arraylist.remove(1);
+		System.out.println(arraylist);
+
+	}
+
+}

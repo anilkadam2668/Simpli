@@ -1,0 +1,14 @@
+package Collections;
+
+import java.util.HashMap;
+
+public class HashMaprunner {
+
+	public static void main(String[] args) {
+		HashMap<Integer, String> map=new HashMap<>();
+		
+		
+
+	}
+
+}

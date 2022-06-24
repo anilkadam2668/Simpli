@@ -1,0 +1,20 @@
+package Collections;
+
+	class Outer{
+	private int x =10;
+	}
+	
+	class Inner{
+	Void show(){
+	  System.out.println("x is "+x);
+		
+	}
+		public class Outerrunner {
+	public static void main(String[] args) {
+		
+		Outer obj=new Outer();
+		Outer.Inner in=obj.new Inner();
+
+	}
+
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-09T18:52:24 IST" name="Default suite" finished-at="2022-05-09T18:54:17 IST" duration-ms="113001">
+    <groups>
+    </groups>
+    <test started-at="2022-05-09T18:52:24 IST" name="Default test" finished-at="2022-05-09T18:54:17 IST" duration-ms="113001">
+      <class name="testcase.Testcasedemo2">
+        <test-method signature="Chrometest()[pri:0, instance:testcase.Testcasedemo2@58695725]" started-at="2022-05-09T18:52:24 IST" name="Chrometest" finished-at="2022-05-09T18:54:17 IST" duration-ms="112936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chrometest -->
+      </class> <!-- testcase.Testcasedemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

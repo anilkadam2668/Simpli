@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;webtest.Orrangehrm&apos; to &apos;Orrangehrm_normal&apos;&#x0D;&#x0A;- Original project: &apos;Selenium4newproj&apos;&#x0D;&#x0A;- Original element: &apos;webtest.Orrangehrm&apos;&#x0D;&#x0A;- Renamed element: &apos;webtest.Orrangehrm_normal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Orrangehrm&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;webtest{Orrangehrm.java[Orrangehrm" matchStrategy="1" name="Orrangehrm_normal" qualified="false" references="true" similarDeclarations="false" stamp="1639028962935" textual="false" version="1.0"/>
+</session>

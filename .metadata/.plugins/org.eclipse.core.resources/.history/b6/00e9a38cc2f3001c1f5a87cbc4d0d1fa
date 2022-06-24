@@ -1,0 +1,16 @@
+
+class  Outer {
+	private int x=20;
+	
+	class Inner{
+		void show() {
+			System.out.println("Value of x: "+x);
+			
+		}
+	}
+
+}
+
+public class InnerClassRunner{
+	
+}

@@ -1,0 +1,20 @@
+package Collections;
+
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
+public class Linkedlistrun2 {
+
+	public static void main(String[] args) {
+List <String> animal1=new LinkedList<>();//ctrl+shift+o=to import required files
+		
+		animal.add("dog1");
+		animal.add("cat1");
+		animal.add("Lion1");
+			
+		System.out.println(animal1.remove(1));
+
+	}
+
+}

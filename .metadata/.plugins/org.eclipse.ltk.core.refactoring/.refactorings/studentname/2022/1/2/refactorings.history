@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Contolflow_assignments.PositiveNegaticeint&apos; to &apos;Positive_Negative_num&apos;&#x0D;&#x0A;- Original project: &apos;studentname&apos;&#x0D;&#x0A;- Original element: &apos;Contolflow_assignments.PositiveNegaticeint&apos;&#x0D;&#x0A;- Renamed element: &apos;Contolflow_assignments.Positive_Negative_num&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PositiveNegaticeint&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Contolflow_assignments{PositiveNegaticeint.java[PositiveNegaticeint" matchStrategy="1" name="Positive_Negative_num" qualified="false" references="true" similarDeclarations="false" stamp="1641223095553" textual="false" version="1.0"/>
+</session>

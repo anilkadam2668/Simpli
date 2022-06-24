@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Contolflow_assignments.Armstrong_number&apos; to &apos;Armstrong_number_cube_root_additon&apos;&#x0D;&#x0A;- Original project: &apos;studentname&apos;&#x0D;&#x0A;- Original element: &apos;Contolflow_assignments.Armstrong_number&apos;&#x0D;&#x0A;- Renamed element: &apos;Contolflow_assignments.Armstrong_number_cube_root_additon&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Armstrong_number&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Contolflow_assignments{Armstrong_number.java[Armstrong_number" matchStrategy="1" name="Armstrong_number_cube_root_additon" qualified="false" references="true" similarDeclarations="false" stamp="1645798274585" textual="false" version="1.0"/>
+</session>

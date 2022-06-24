@@ -1,0 +1,10 @@
+package webtest;
+
+public class Locator_xpath_axies {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

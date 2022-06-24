@@ -1,0 +1,15 @@
+package package1;
+
+import corejava.Animal;
+
+public class Dog extends Animal {// we can create object of child class
+
+	//abstract me
+	public abstract void sound() {
+		System.out.println("dog barks");
+	}
+    //non abstract or concrete method
+	public void eat() { //we can override the main method also
+		System.out.println("dog eats");
+}
+}

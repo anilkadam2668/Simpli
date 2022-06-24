@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;data.properties&apos; to &apos;Selenium4newproj/src/TestNG&apos;&#x0D;&#x0A;- Original project: &apos;Selenium4newproj&apos;&#x0D;&#x0A;- Destination element: &apos;Selenium4newproj/src/TestNG&apos;&#x0D;&#x0A;- Original element: &apos;data.properties&apos;" description="Copy file" destination="/src&lt;TestNG" element1="data.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1651989871300" units="0" version="1.0"/>
+</session>
