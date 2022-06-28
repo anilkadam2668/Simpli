@@ -11,7 +11,7 @@ class  Outer {
 
 }
 
-public class InnerClassRunner{
+public class InnerClassRunner{ //if its showing error then retype or rename
 	public static void main(String[]args) {
 		Outer obj =new Outer();
 		Outer.Inner in=obj.new Inner();

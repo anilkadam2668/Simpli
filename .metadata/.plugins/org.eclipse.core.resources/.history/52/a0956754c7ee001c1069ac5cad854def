@@ -1,6 +1,0 @@
-package corejava;
-
-public class Dog extends Animal{
-
-	
-}
